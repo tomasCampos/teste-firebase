@@ -1,0 +1,54 @@
+
+{
+"Receitas":
+	[
+		{
+			"id": "0",
+			"nome": "Sanduba",
+			"descricao": "O clássico pão com carne e salada.",
+			"conteudo": "duas folhas de alface, duas rodelas de tomate, uma colgher de milho verde e hambuerger. Coloque tudo dentro de duas fatias de pão e está pronto."
+		},
+		{
+			"id": "1",
+			"nome": "Geleia de goiaba",
+			"descricao": "geleia feita com a poupa da goiaba, muito fácil de se fazer em casa!",
+			"conteudo": "Descasque 3 goiabas, separe as sementes e amasse a poupa até a mistura ficar homogenea. Adicione 2 copos de água com açúcar em uma panela à fogo baixo e misture com a poupa da goiaba. Aguarde até ter consistencia de geleia e pronto."
+		},
+		{
+			"id": "2",
+			"nome": "Sanduba",
+			"descricao": "O clássico pão com carne e salada.",
+			"conteudo": "duas folhas de alface, duas rodelas de tomate, uma colgher de milho verde e hambuerger. Coloque tudo dentro de duas fatias de pão e está pronto."
+		},
+		{
+			"id": "3",
+			"nome": "Geleia de goiaba",
+			"descricao": "geleia feita com a poupa da goiaba, muito fácil de se fazer em casa!",
+			"conteudo": "Descasque 3 goiabas, separe as sementes e amasse a poupa até a mistura ficar homogenea. Adicione 2 copos de água com açúcar em uma panela à fogo baixo e misture com a poupa da goiaba. Aguarde até ter consistencia de geleia e pronto."
+		},
+		{
+			"id": "4",
+			"nome": "sanduba",
+			"descricao": "O clássico pão com carne e salada.",
+			"conteudo": "duas folhas de alface, duas rodelas de tomate, uma colgher de milho verde e hambuerger. Coloque tudo dentro de duas fatias de pão e está pronto."
+		},
+		{
+			"id": "5",
+			"nome": "Geleia de goiaba",
+			"descricao": "geleia feita com a poupa da goiaba, muito fácil de se fazer em casa!",
+			"conteudo": "Descasque 3 goiabas, separe as sementes e amasse a poupa até a mistura ficar homogenea. Adicione 2 copos de água com açúcar em uma panela à fogo baixo e misture com a poupa da goiaba. Aguarde até ter consistencia de geleia e pronto."
+		},
+		{
+			"id": "6",
+			"nome": "Sanduba",
+			"descricao": "O clássico pão com carne e salada.",
+			"conteudo": "duas folhas de alface, duas rodelas de tomate, uma colgher de milho verde e hambuerger. Coloque tudo dentro de duas fatias de pão e está pronto."
+		},
+		{
+			"id": "7",
+			"nome": "Geleia de goiaba",
+			"descricao": "geleia feita com a poupa da goiaba, muito fácil de se fazer em casa!",
+			"conteudo": "Descasque 3 goiabas, separe as sementes e amasse a poupa até a mistura ficar homogenea. Adicione 2 copos de água com açúcar em uma panela à fogo baixo e misture com a poupa da goiaba. Aguarde até ter consistencia de geleia e pronto."
+		}
+	]
+}
